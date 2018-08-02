@@ -1,0 +1,2 @@
+# Yelpcamp
+YelpCamp was a website that was created by me during my summer vacation.  It is a site where a person can post picture and description of a camping ground they have visited and also add the price for each night's stay there. This site provides information about all the camping grounds in and around a particular area.  The site is useful for hikers and camping lovers to search for information.
